@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/UniTest.dir/home/radix/backup/Int/testitterator/src/database.cpp.o CMakeFiles/UniTest.dir/home/radix/backup/Int/testitterator/src/main.cpp.o CMakeFiles/UniTest.dir/home/radix/backup/Int/testitterator/src/UniTest.cpp.o  -o UniTest -rdynamic 

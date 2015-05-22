@@ -1,0 +1,9 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+
+SET(DIR_SRC ../src)
+INCLUDE(${DIR_SRC}/source.cmake)
+
+SET(DIR_DEPS ../deps)
+INCLUDE(${DIR_DEPS} ../deps.cmake)
+ADD_DEFINITIONS(-std=c++11)
+ADD_EXECUTABLE(UniTest ${SRC_FILES})

@@ -1,0 +1,6 @@
+FILE(GLOB SRC_FILES 
+	${DIR_SRC}/*.h
+	${DIR_SRC}/*.cpp
+	${DIR_SRC}/*.c
+)
+SOURCE_GROUP("src" FILES ${SRC_FILES})

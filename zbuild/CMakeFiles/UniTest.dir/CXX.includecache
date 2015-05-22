@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/radix/backup/Int/testitterator/src/UniTest.cpp
+UniTest.h
+/home/radix/backup/Int/testitterator/src/UniTest.h
+vector
+-
+
+/home/radix/backup/Int/testitterator/src/UniTest.h
+iostream
+-
+list
+-
+string
+-
+
+/home/radix/backup/Int/testitterator/src/database.cpp
+UniTest.h
+/home/radix/backup/Int/testitterator/src/UniTest.h
+
+/home/radix/backup/Int/testitterator/src/database.h
+
+/home/radix/backup/Int/testitterator/src/main.cpp
+iostream
+-
+UniTest.h
+/home/radix/backup/Int/testitterator/src/UniTest.h
+database.h
+/home/radix/backup/Int/testitterator/src/database.h
+
